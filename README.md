@@ -8,6 +8,7 @@ The main objective of this project is to apply different types of machine learni
 The dataset includes features such as teacher-student ratio, parent literacy rate, internet availability, and infrastructure facilities. These features are used to build predictive models and analyze relationships within the data.
 <br>
 <br>
+
 🎯 What I Have Done in This Project
 <br>
 *Collected and loaded the school dataset
@@ -93,6 +94,7 @@ Higher literacy rate tends to improve student performance
 👉 Insight:
 Clusters and patterns indicate how features are related
 <br>
+<br>
 📉 Residual Plots:
 <br>
 *Show difference between actual and predicted values
@@ -109,6 +111,7 @@ Helps evaluate accuracy of regression models
 <br>
 👉 Insight:
 Good models create clear boundaries between classes
+<br>
 <br>
 🔗 Association Rule Graphs:
 <br>
