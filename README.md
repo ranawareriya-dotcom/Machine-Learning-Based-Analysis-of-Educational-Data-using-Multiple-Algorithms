@@ -7,6 +7,7 @@ The main objective of this project is to apply different types of machine learni
 
 The dataset includes features such as teacher-student ratio, parent literacy rate, internet availability, and infrastructure facilities. These features are used to build predictive models and analyze relationships within the data.
 <br>
+<br>
 🎯 What I Have Done in This Project
 <br>
 *Collected and loaded the school dataset
@@ -40,12 +41,13 @@ Created target variables:
 ⚙️ Machine Learning Algorithms Used
 <br>
 This project uses a combination of algorithms for different types of tasks:
-
+<br>
 🔹 Regression Algorithms:
 <br>
 *Simple Linear Regression → Predicts Math Score
 <br>
 *Multiple Linear Regression → Predicts Science Score
+<br>
 <br>
 🔹 Classification Algorithms:
 <br>
@@ -59,6 +61,7 @@ This project uses a combination of algorithms for different types of tasks:
 <br>
 *Naive Bayes → Probability-based classification
 <br>
+<br>
 🔹 Association Rule Algorithm:
 <br>
 Apriori → Finds relationships between school facilities
@@ -67,6 +70,7 @@ Apriori → Finds relationships between school facilities
 📊 Graph Analysis:
 <br>
 Different types of graphs were used to understand data and model behavior:
+<br>
 <br>
 📈 Regression Graphs:
 <br>
@@ -78,6 +82,7 @@ Different types of graphs were used to understand data and model behavior:
 <br>
 👉 Insight:
 Higher literacy rate tends to improve student performance
+<br>
 <br>
 🔵 Scatter Plots:
 <br>
@@ -94,6 +99,7 @@ Clusters and patterns indicate how features are related
 <br>
 👉 Insight:
 Helps evaluate accuracy of regression models
+<br>
 <br>
 🟢 Classification Graphs:
 <br>
@@ -114,6 +120,7 @@ Confidence
 <br>
 👉 Insight:
 Certain facilities (like electricity and internet) often occur together
+<br>
 <br>
 📌 Key Results:
 <br>
